@@ -11,7 +11,7 @@
 - your username is: cs15lsp22apf
 - enter "ssh cs15lsp22apf@ieng6.ucsd.edu" 
 - follow the prompts
-- once connected the terminal should look something like this ![Image] (https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/SSH%20PIC.png)
+- once connected the terminal should look something like this ![Image](https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/SSH%20PIC.png)
 
 ### Trying Some Commands
 - commands can be entered locally and you can use SSH to make remote commands
