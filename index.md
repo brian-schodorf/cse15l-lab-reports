@@ -42,7 +42,15 @@
 - the up arrow recalls the last command that was run 
 - writing a command in quotes at the end of an ssh command will run it on the remote server 
 - separate commands with semicolons to run on the same line 
-- ![Image](C:\Users\Brian\OneDrive\Pictures\LAST PIC.png)
+- ![Image](https://ibb.co/hF29Smr)
+
+
+https://ibb.co/yBMVHGX
+https://ibb.co/Jmb4hb0
+https://ibb.co/txQyCrt
+https://ibb.co/YQxnvbH
+https://ibb.co/zf5FbCS
+
 
 
 
