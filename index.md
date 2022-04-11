@@ -3,7 +3,7 @@
 
 ### Installing VScode
 - go to [the VS code website](https://code.visualstudio.com/) and download Visual Studio Code for your operating system 
-- open VS Code once downloaded, it should look something like this ![Image](VSCODE PIC.png)
+- open VS Code once downloaded, it should look something like this ![Image](https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/VSCODE%20PIC.png)
 - open folders/files or create one to begin writing code
 
 ### Remotely Connecting
@@ -11,7 +11,7 @@
 - your username is: cs15lsp22apf
 - enter "ssh cs15lsp22apf@ieng6.ucsd.edu" 
 - follow the prompts
-- once connected the terminal should look something like this ![Image] (C:\Users\Brian\OneDrive\Pictures\SSH PIC.png)
+- once connected the terminal should look something like this ![Image] (https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/SSH%20PIC.png)
 
 ### Trying Some Commands
 - commands can be entered locally and you can use SSH to make remote commands
@@ -24,7 +24,7 @@
 - the command copies files to a remote computer
 - enter "scp FileName.java cs15lsp22zz@ieng6.ucsd.edu:~/" where FileName is the name of the file you are copying
 - now you FileName.java will be in the home directory of the ieng6 computer 
-- Your output should look like this: ![Image](C:\Users\Brian\OneDrive\Pictures\SCP PIC.png)
+- Your output should look like this: ![Image](https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/SCP%20PIC.png)
 - now if you did the ls command FileName.java would appear 
 
 ### Setting an SSH Key 
@@ -36,24 +36,11 @@
 - enter "mkdir .ssh"
 - now logout 
 - enter "scp /Users/cs15lsp22apf/.ssh/id_rsa.pub cs15lsp22apf@ieng6.ucsd.edu:~/.ssh/authorized_keys" to copy the key
-- ![Image](C:\Users\Brian\OneDrive\Pictures\SSH KEY.png)
+- ![Image](https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/SSH%20KEY.png)
   
 ### Optimizing Remote Running
 - the up arrow recalls the last command that was run 
 - writing a command in quotes at the end of an ssh command will run it on the remote server 
 - separate commands with semicolons to run on the same line 
-- ![Image](https://ibb.co/hF29Smr)
-
-
-https://ibb.co/yBMVHGX
-https://ibb.co/Jmb4hb0
-https://ibb.co/txQyCrt
-https://ibb.co/YQxnvbH
-https://ibb.co/zf5FbCS
-
-
-
-
-
-
+- ![Image](https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/LAST%20PIC.png)
 
