@@ -3,7 +3,7 @@
 
 ### Installing VScode
 - go to [the VS code website](https://code.visualstudio.com/) and download Visual Studio Code for your operating system 
-- open VS Code once downloaded, it should look something like this ![Image](C:\Users\Brian\OneDrive\Pictures\VSCODE PIC.png)
+- open VS Code once downloaded, it should look something like this ![Image](VSCODE PIC.png)
 - open folders/files or create one to begin writing code
 
 ### Remotely Connecting
