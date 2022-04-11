@@ -16,7 +16,7 @@
 ### Trying Some Commands
 - commands can be entered locally and you can use SSH to make remote commands
 - some most common/basic commands you should know are: **cd**(change directory) and **ls-a** (lists all files in current directory)
-- ![Image](C:\Users\Brian\OneDrive\Pictures\COMMANDS PIC.png)
+- ![Image](https://raw.githubusercontent.com/brian-schodorf/cse15l-lab-reports/main/COMMANDS%20PIC.png)
 - A few usefull commands that can be used to log out of the remote terminal are: Ctrl-D or exit
 
 ### Moving Files with scp 
