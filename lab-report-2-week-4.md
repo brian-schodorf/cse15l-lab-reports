@@ -4,7 +4,7 @@
 #### Changes to markdownParse:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/change%20test2.png)
 #### Failure inducing input file:
-see file [here](../markdown-parser/tester2.md)
+see file [here](../tester2.md)
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/ts2%20link.png)
 #### Command line output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/cmd%20test2.png)
