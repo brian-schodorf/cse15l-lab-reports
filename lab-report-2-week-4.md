@@ -4,7 +4,7 @@
 #### Changes to markdownParse:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/change%20test2.png)
 #### Failure inducing input file:
-[here](https://github.com/brian-schodorf/markdown-parser/blob/main/tester2.md)
+[tester2 LINK](https://github.com/brian-schodorf/markdown-parser/blob/main/tester2.md)
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/ts2%20link.png)
 #### Command line output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/cmd%20test2.png)
@@ -17,7 +17,7 @@ In this case the bug in our code was that Markdown Parse can not get the link if
 #### Changes to markdownParse:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/change%20new.png)
 #### Failure inducing input file:
-![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/new%20link.png)
+[newTest LINK](https://github.com/brian-schodorf/markdown-parser/blob/main/newTest.md)
 #### Command line output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/cmd%20new.png)
 #### Relationship between bug, symptom, and input
@@ -30,7 +30,7 @@ In this case the bug in our code was that Markdown Parse can not get the link if
 #### Changes to markdownParse:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/change%20-%20file.png)
 #### Failure inducing input file:
-![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/file%20link.png)
+[test-file LINK](https://github.com/brian-schodorf/markdown-parser/blob/main/test-file.md)
 #### Command line output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/cmd%20-file.png)
 #### Relationship between bug, symptom, and input
