@@ -5,7 +5,6 @@
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/change%20test2.png)
 #### Failure inducing input file:
 [tester2 LINK](https://github.com/brian-schodorf/markdown-parser/blob/main/tester2.md)
-![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/ts2%20link.png)
 #### Command line output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/cmd%20test2.png)
 #### Relationship between bug, symptom, and input
