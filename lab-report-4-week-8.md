@@ -2,8 +2,8 @@
 
 
 ### Links to Repos:
-[My repo:](https://github.com/brian-schodorf/markdown-parser)
+[My repo](https://github.com/brian-schodorf/markdown-parser)
 
-[Repo reviewed in week 7:](https://github.com/cbaeucsd/markdown-parser)
+[Repo reviewed in week 7](https://github.com/cbaeucsd/markdown-parser)
 
 
