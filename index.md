@@ -11,5 +11,9 @@ whatever you like
 [Link](https://agoodmovietowatch.com/)
 
 >  Blockquote
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://brian-schodorf.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 
 
