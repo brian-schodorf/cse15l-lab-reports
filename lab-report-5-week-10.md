@@ -5,3 +5,9 @@
 
 #### How I found the tests with different results:
 I just manually combed throught the test files to find a few that I knew would not work. At this stage in my MarkdownParser implementation I have a strong idea of what cases my code can and cannot pass.
+
+## Test 194:
+[Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
+
+## Test 12:
+[Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/14.md)
