@@ -8,13 +8,31 @@ I just manually combed throught the test files to find a few that I knew would n
 
 ## Test 194:
 [Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
-### Test 194 preview:
 
-Output should be [url]
+Test 194 preview:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/preview194.png)
+
+Output should be: [url]
+
+My output:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/my194.png)
+
+Given MarkdownParse Output:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/other194.png)
+
+
 
 ## Test 12:
 [Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/12.md)
-### Test 12 preview: 
 
-Output should be []
+Test 12 preview:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/preview12.png)
+
+Output should be: []
+
+My output:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/my12.png)
+
+Given MarkdownParse Output:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/other12.png)
 
