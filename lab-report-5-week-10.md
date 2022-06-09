@@ -27,7 +27,6 @@ For test 194 both my version and the given version of MarkDownParse did not get 
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/otherCode.png)
 
 
-
 ## Test 32:
 [Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/32.md)
 
@@ -42,6 +41,7 @@ For test 194 both my version and the given version of MarkDownParse did not get 
 #### Given MarkdownParse Output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/other32.png)
 
+For test 32 my version of MarkDownParse did not get the correct output. The bug comes from the fact that my parse algorithm just adds whatever is between the open and closed parenthesis and does not check if is a valid url. In order to pass this test my code would need some large scale changes and additions to look through and check the characters between the parenthesis.
 ##### My bug:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/32bug.png)
 
