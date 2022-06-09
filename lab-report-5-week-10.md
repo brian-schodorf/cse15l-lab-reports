@@ -20,7 +20,7 @@ I just manually combed throught the test files to find a few that I knew would n
 #### Given MarkdownParse Output:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/other194.png)
 
-For test 194 both my version and the given version of MarkDownParse did not get the correct output. For my version of MarkDownParse, the bug comes from the part of my algorithm that checks if the open parenthesis appears one index after the close bracket. Test 194 will cause an error because the url link does not start with the open parenthesis. This causes my MarkDownParse to return empty brackets [].The given version of markdown parse does not return because it begins reading at the index of the open parenthesis and thus, returns [url].
+For test 194 both my version and the given version of MarkDownParse did not get the correct output. For my version of MarkDownParse, the bug comes from the section of my algorithm that checks if the open parenthesis appears one index after the close bracket. Test 194 will cause an error because the url link does not start with the open parenthesis. This causes my MarkDownParse to return empty brackets [].The given version of markdown only returns part of the url because it begins reading at the index of the open parenthesis and thus, returns [url].
 ##### My bug:
 ![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/myCodee.png)
 ##### Other bug:
@@ -28,17 +28,20 @@ For test 194 both my version and the given version of MarkDownParse did not get 
 
 
 
-## Test 12:
-[Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/12.md)
+## Test 32:
+[Link to Test File](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/32.md)
 
-#### Test 12 preview:
-![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/preview12.png)
+#### Test 32 preview:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/32pre.png)
 
 #### Output should be: []
 
 #### My output:
-![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/my12.png)
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/my32.png)
 
 #### Given MarkdownParse Output:
-![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/other12.png)
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/other32.png)
+
+##### My bug:
+![Image](https://github.com/brian-schodorf/cse15l-lab-reports/blob/main/32bug.png)
 
